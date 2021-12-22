@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "new threat model",
-    "owner": "Stefan Heeren"
+    "owner": "Stefan Heeren",
+    "description": "high level system description"
   },
   "detail": {
     "contributors": [],
