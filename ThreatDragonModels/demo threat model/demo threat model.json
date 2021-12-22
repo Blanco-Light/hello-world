@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "demo threat model",
+    "owner": "me",
+    "description": "cool demo model"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "r32"
+      }
+    ],
+    "diagrams": [],
+    "reviewer": "grote smurf"
+  }
+}
