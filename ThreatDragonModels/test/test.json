@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "test",
+    "owner": "king",
+    "description": "level 0"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "test 1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "queen"
+  }
+}
